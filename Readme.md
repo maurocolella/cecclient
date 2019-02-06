@@ -1,3 +1,8 @@
+## Forked from Tianocore/EDK II
+See also:
+* [https://github.com/ektor5/secocec](https://github.com/ektor5/secocec)
+* [https://github.com/Pulse-Eight/libcec/blob/master/src/libcec/CECClient.cpp](https://github.com/Pulse-Eight/libcec/blob/master/src/libcec/CECClient.cpp)
+
 # EDK II Project
 
 A modern, feature-rich, cross-platform firmware development environment
