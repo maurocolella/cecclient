@@ -1,6 +1,7 @@
 ## Forked from Tianocore/EDK II
 See also:
 * [https://github.com/ektor5/secocec](https://github.com/ektor5/secocec)
+* [https://www.ehacking.net/2016/07/exploring-vulnerabilities-in-hdmi.html](https://www.ehacking.net/2016/07/exploring-vulnerabilities-in-hdmi.html) (security)
 * [https://github.com/Pulse-Eight/libcec/blob/master/src/libcec/CECClient.cpp](https://github.com/Pulse-Eight/libcec/blob/master/src/libcec/CECClient.cpp)
 
 # EDK II Project
